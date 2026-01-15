@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="ToggleRegionsExtension.2e63a415-82bf-463a-a2d0-d8f831a77898" Version="1.8" Language="en-US" Publisher="Matt Mower" />
+        <Identity Id="ToggleRegionsExtension.649cc8b5-2f39-4a42-933b-d78568230ca6" Version="1.8" Language="en-US" Publisher="Matt Mower" />
         <DisplayName>Toggle Regions 2022</DisplayName>
         <Description xml:space="preserve">Collapse, expand, and toggle #regions in code editor tabs.</Description>
         <MoreInfo>https://github.com/mdmower/ToggleRegionsExtension</MoreInfo>
@@ -10,16 +10,16 @@
         <PreviewImage>Icons\extension-icon-200.png</PreviewImage>
     </Metadata>
     <Installation>
-        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)">
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 17.0)">
             <ProductArchitecture>amd64</ProductArchitecture>
         </InstallationTarget>
-        <InstallationTarget Version="[16.0, 17.0)" Id="Microsoft.VisualStudio.Community">
+        <InstallationTarget Version="[17.0, 17.0)" Id="Microsoft.VisualStudio.Community">
             <ProductArchitecture>arm64</ProductArchitecture>
         </InstallationTarget>
-        <InstallationTarget Version="[16.0,17.0)" Id="Microsoft.VisualStudio.Pro">
+        <InstallationTarget Version="[17.0,17.0)" Id="Microsoft.VisualStudio.Pro">
             <ProductArchitecture>amd64</ProductArchitecture>
         </InstallationTarget>
-        <InstallationTarget Version="[16.0,17.0)" Id="Microsoft.VisualStudio.Pro">
+        <InstallationTarget Version="[17.0,17.0)" Id="Microsoft.VisualStudio.Pro">
             <ProductArchitecture>arm64</ProductArchitecture>
         </InstallationTarget>
     </Installation>

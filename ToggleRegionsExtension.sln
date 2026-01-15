@@ -16,7 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToggleRegionsVS2026", "..\ToggleRegionsExtension\VS2026\ToggleRegionsVS2026.csproj", "{6F8C880E-1423-4643-A30B-8311881B85B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToggleRegionsVS2026", "VS2026\ToggleRegionsVS2026.csproj", "{6F8C880E-1423-4643-A30B-8311881B85B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,7 +51,7 @@ Global
 		Common\ToggleRegionsCommon.projitems*{54e2047f-59b4-4198-81ea-f50cdf04050b}*SharedItemsImports = 13
 		Common\ToggleRegionsCommon.projitems*{6a856c23-0264-4625-9fa3-4cb702138fde}*SharedItemsImports = 4
 		Common\ToggleRegionsCommon.projitems*{6d66ea76-7435-4d6b-aa3f-9f62d948bce3}*SharedItemsImports = 4
-		..\ToggleRegionsExtension\Common\ToggleRegionsCommon.projitems*{6f8c880e-1423-4643-a30b-8311881b85b3}*SharedItemsImports = 4
+		Common\ToggleRegionsCommon.projitems*{6f8c880e-1423-4643-a30b-8311881b85b3}*SharedItemsImports = 4
 		Common\ToggleRegionsCommon.projitems*{951f86cb-5978-4167-9489-cf0aa0f47776}*SharedItemsImports = 4
 	EndGlobalSection
 EndGlobal
