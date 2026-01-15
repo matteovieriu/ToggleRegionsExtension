@@ -47,6 +47,7 @@ Remap keyboard shortcuts in Tools > Options > Environment > Keyboard (filter by 
 
 ### Compatibility
 
+- Visual Studio 2026 (Version 18.0 or later)
 - Visual Studio 2022 (Version 17.3 or later)
 - Visual Studio 2019 (Version 16.10 or later)
 - Visual Studio 2017 (Any version)
