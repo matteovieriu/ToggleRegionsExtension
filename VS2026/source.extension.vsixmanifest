@@ -4,7 +4,7 @@
         <Identity Id="ToggleRegionsExtension.2e63a415-82bf-463a-a2d0-d8f831a77898" Version="1.9" Language="en-US" Publisher="Matteo Vieriu" />
         <DisplayName>Toggle Regions 2026</DisplayName>
         <Description xml:space="preserve">Collapse, expand, and toggle #regions in code editor tabs.</Description>
-        <MoreInfo>https://github.com/mdmower/ToggleRegionsExtension</MoreInfo>
+        <MoreInfo>https://github.com/matteovieriu/ToggleRegionsExtension</MoreInfo>
         <License>LICENSE</License>
         <Icon>Icons\extension-icon-128.png</Icon>
         <PreviewImage>Icons\extension-icon-200.png</PreviewImage>
