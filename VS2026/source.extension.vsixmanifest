@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="ToggleRegionsExtension.649cc8b5-2f39-4a42-933b-d78568230ca6" Version="1.9" Language="en-US" Publisher="Matteo Vieriu" />
+        <Identity Id="ToggleRegionsExtension.02172026" Version="1.9" Language="en-US" Publisher="Matteo Vieriu" />
         <DisplayName>Toggle Regions 2026</DisplayName>
         <Description xml:space="preserve">Collapse, expand, and toggle #regions in code editor tabs.</Description>
         <MoreInfo>https://github.com/matteovieriu/ToggleRegionsExtension</MoreInfo>
